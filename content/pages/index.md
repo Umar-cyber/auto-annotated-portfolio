@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: DIRISU FAMILY DYNASTY
-    subtitle: The section subtitle
+    subtitle: EDO STATE NIGERIA
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
