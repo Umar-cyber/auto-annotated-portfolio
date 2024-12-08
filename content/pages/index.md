@@ -15,13 +15,13 @@ sections:
     variant: variant-a
     title: DIRISU FAMILY DYNASTY
     subtitle: 'EDO STATE, NIGERIA'
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Edo State, located in the southern region of Nigeria, is one of the
+      country's 36 states. Established on August 27, 1991, after being carved
+      out from the former Bendel State, its capital city is Benin City, a
+      historical and cultural hub renowned for its ancient artifacts and role in
+      Nigerian history.
+
     elementId: ''
     styles:
       self:
