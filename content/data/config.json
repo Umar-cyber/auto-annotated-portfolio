@@ -98,11 +98,5 @@
         }
     },
     "defaultSocialImage": "/images/WhatsApp Image 2024-12-06 at 11.49.47 AM.jpeg",
-    "defaultMetaTags": [
-        {
-            "type": "MetaTag",
-            "property": "og:title",
-            "content": ""
-        }
-    ]
+    "defaultMetaTags": []
 }
