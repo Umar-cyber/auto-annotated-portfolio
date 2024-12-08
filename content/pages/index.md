@@ -10,39 +10,35 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 69
 sections:
-  - elementId: ''
+  - type: TextSection
     colors: colors-f
-    backgroundSize: full
-    title: DIRISU FAMILY DYNASTY
-    subtitle: ''
+    variant: variant-a
+    title: The Section Title
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
         padding:
-          - pt-36
-          - pb-48
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    text: ''
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
