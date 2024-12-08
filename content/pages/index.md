@@ -42,9 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      DIRISU FAMILY
-      DYNASTY![](/images/WhatsApp%20Image%202024-12-06%20at%2011.49.47%20AM.jpeg)
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
