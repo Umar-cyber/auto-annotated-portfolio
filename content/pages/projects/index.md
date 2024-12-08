@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: FAMILY MEMBERS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
