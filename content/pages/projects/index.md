@@ -4,7 +4,7 @@ title: FAMILY MEMBERS
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Abeokuta_Forest_Nursery.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
