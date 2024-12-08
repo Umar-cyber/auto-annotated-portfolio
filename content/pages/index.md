@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 69
+  opacity: 59
 sections:
   - type: TextSection
     colors: colors-f
