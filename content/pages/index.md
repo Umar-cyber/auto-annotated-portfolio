@@ -42,6 +42,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      DIRISU FAMILY DYNASTY![](/images/Abeokuta_Forest_Nursery.jpg)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
