@@ -334,4 +334,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/WhatsApp Image 2024-12-10 at 8.24.32 AM.jpeg
 ---
