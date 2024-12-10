@@ -4,9 +4,7 @@ title: UNCLE
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :)
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
