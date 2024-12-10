@@ -73,29 +73,6 @@ sections:
       actions:
         justifyContent: flex-start
     text: "\U0001F384 **Merry Christmas & Happy New Year!** \U0001F389\nWishing you a joyful holiday season filled with peace, love, and happiness.\nThank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F\n"
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: "\U0001F384 Merry Christmas & Happy New Year In Advance! \U0001F389"
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: "Wishing you a joyful holiday season filled with peace, love, and happiness.Thank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F"
   - type: MediaGallerySection
     title: Gallery
     subtitle: Family Events Pictures
