@@ -41,7 +41,7 @@ sections:
         textAlign: center
   - type: QuoteSection
     quote: "<div style=\"text-size: 1px\" >\U0001F384 **Merry Christmas & Happy New Year!** \U0001F389\nWishing you a joyful holiday season filled with peace, love, and happiness.\nThank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F</div>\n\n"
-    name: Johnna Doe
+    name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
