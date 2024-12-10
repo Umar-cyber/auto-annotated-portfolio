@@ -86,9 +86,97 @@ sections:
         textAlign: center
   - type: CtaSection
     title: FAMILY MEMBERS
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      #### Adeshola Dirisu
+
+      #### Imodu Dirisu
+
+      #### Abigail Dirisu
+
+      #### Bose Dirisu
+
+      #### Lucky Dirisu
+
+      #### Olu David Dirisu
+
+      #### Odio Peter Dirisu
+
+      #### Ogie David Dirisu
+
+      #### Friday Adebor Dirisu
+
+      #### Pst. Sunday Dirisu
+
+      #### Rukayya Peter Dirisu
+
+      #### Mariam Peter Dirisu
+
+      #### Francis Joseph Dirisu
+
+      #### Ayekpada Adebor Dirisu
+
+      #### Kafid A. DIRISU
+
+      #### Amid A. Dirisu
+
+      #### Sis. Josephine Samuel .D.
+
+      #### Benald Dirisu 
+
+      #### Patience Dirisu 
+
+      #### Paul Agustine Dirisu 
+
+      #### Paul Samuel Dirisu
+
+      #### Mrs Josiah Dirisu
+
+      #### Aliyu Peter Dirisu
+
+      #### Yakubu Peter Dirisu (Don)
+
+      #### Philip Joseph
+
+      #### Mr josh link vec.Dirisu 
+
+      #### Rashida Alex Dirisu
+
+      #### Yunusa .Dy. Cordinator
+
+      #### Dirisu Sunday
+
+      #### Ignatus Dirisu
+
+      #### Ogioshe Dirisu
+
+      #### Desmond Dolz dirisu
+
+      #### Kate Dirisu
+
+      #### Dada Dirisu 1,000 1,000
+
+      #### Jery.d. Jwoder nig ltd 
+
+      #### Abdulmalik .d .sec 
+
+      #### Famous Dirisu 
+
+      #### Unice Dirisu
+
+      #### Sis Rose 
+
+      #### Tunde Adebor Dirisu
+
+      #### Haruna Peter Dirisu
+
+      #### Philomina Salak Dirisu
+
+      #### Pst Abudu Emmanuel .D
+
+      #### Mummy Philo .D.(Minna)
+
+      #### Mummy Martins .D.okp
+
     actions: []
     colors: colors-f
     backgroundSize: full
