@@ -71,7 +71,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: small
-        borderWidth: 8
+        borderWidth: 0
       title:
         textAlign: left
       subtitle:
