@@ -4,10 +4,7 @@ title: LAST BORN
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  Last born of the DIRISU Family, Born and brought up in Edo, finished his
-  secondary school in a school I dunno, furthered his education the Bida
-  Polytechnich, passed through many challenges, and is now back in Benin CIty.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
