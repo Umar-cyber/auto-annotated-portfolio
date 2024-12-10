@@ -40,7 +40,7 @@ sections:
       text:
         textAlign: center
   - type: QuoteSection
-    quote: "<div style=\"text-align: center\">\U0001F384 **Merry Christmas & Happy New Year!**  **In Advance**\U0001F389\nWishing you a joyful holiday season filled with peace, love, and happiness.\nThank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F</div>\n\n"
+    quote: "<div style=\"text-align: center\">> `\U0001F384 undefined  undefined\U0001F389\n> Wishing you a joyful holiday season filled with peace, love, and happiness.\n> Thank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F`</div>\n\n"
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     colors: colors-f
