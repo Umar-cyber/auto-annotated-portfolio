@@ -102,7 +102,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-0
           - pb-24
