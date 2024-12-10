@@ -54,7 +54,7 @@ sections:
           - pb-6
           - pl-4
           - pr-4
-        justifyContent: flex-end
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
