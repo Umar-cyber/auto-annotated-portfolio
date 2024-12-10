@@ -59,7 +59,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/WhatsApp Image 2024-12-08 at 8.42.24 PM (1).jpeg
         altText: Image one
         caption: Image one caption
         elementId: ''
