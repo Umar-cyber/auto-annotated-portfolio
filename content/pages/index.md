@@ -43,13 +43,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: "\U0001F384 Merry Christmas & Happy New Year In Advance! \U0001F389"
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: ''
     elementId: ''
     styles:
       self:
