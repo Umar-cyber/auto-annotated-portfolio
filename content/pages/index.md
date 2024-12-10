@@ -39,6 +39,30 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: QuoteSection
+    quote: "<div style=\"text-align: center\">\U0001F384 **Merry Christmas & Happy New Year!**  **In Advamce**\U0001F389\nWishing you a joyful holiday season filled with peace, love, and happiness.\nThank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F</div>\n"
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
   - type: MediaGallerySection
     title: Gallery
     subtitle: Family Events Pictures
