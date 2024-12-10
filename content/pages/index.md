@@ -107,7 +107,7 @@ sections:
           - pt-0
           - pb-24
           - pl-2
-          - pr-4
+          - pr-2
         justifyContent: center
       title:
         textAlign: left
