@@ -41,7 +41,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Family Events Pictures
     images:
       - type: ImageBlock
         url: >-
