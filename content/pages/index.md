@@ -211,45 +211,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
-    actions:
-      - type: Link
-        label: ''
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-2
-          - pr-2
-        justifyContent: center
-        borderRadius: xx-small
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
