@@ -87,95 +87,97 @@ sections:
   - type: CtaSection
     title: FAMILY MEMBERS
     text: |+
-      *   Adeshola Dirisu
+      ######
 
-      *   Imodu Dirisu
+      ###### Adeshola Dirisu
 
-      *   Abigail Dirisu
+      ###### Imodu Dirisu
 
-      *   Bose Dirisu
+      ###### Abigail Dirisu
 
-      *   Lucky Dirisu
+      ###### Bose Dirisu
 
-      *   Olu David Dirisu
+      ###### Lucky Dirisu
 
-      *   Odio Peter Dirisu
+      ###### Olu David Dirisu
 
-      *   Ogie David Dirisu
+      ###### Odio Peter Dirisu
 
-      *   Friday Adebor Dirisu
+      ###### Ogie David Dirisu
 
-      *   Pst. Sunday Dirisu
+      ###### Friday Adebor Dirisu
 
-      *   Rukayya Peter Dirisu
+      ###### Pst. Sunday Dirisu
 
-      *   Mariam Peter Dirisu
+      ###### Rukayya Peter Dirisu
 
-      *   Francis Joseph Dirisu
+      ###### Mariam Peter Dirisu
 
-      *   Ayekpada Adebor Dirisu
+      ###### Francis Joseph Dirisu
 
-      *   Kafid A. DIRISU
+      ###### Ayekpada Adebor Dirisu
 
-      *   Amid A. Dirisu
+      ###### Kafid A. DIRISU
 
-      *   Sis. Josephine Samuel .D.
+      ###### Amid A. Dirisu
 
-      *   Benald Dirisu
+      ###### Sis. Josephine Samuel .D.
 
-      *   Patience Dirisu
+      ###### Benald Dirisu
 
-      *   Paul Agustine Dirisu
+      ###### Patience Dirisu
 
-      *   Paul Samuel Dirisu
+      ###### Paul Agustine Dirisu
 
-      *   Mrs Josiah Dirisu
+      ###### Paul Samuel Dirisu
 
-      *   Aliyu Peter Dirisu
+      ###### Mrs Josiah Dirisu
 
-      *   Yakubu Peter Dirisu (Don)
+      ###### Aliyu Peter Dirisu
 
-      *   Philip Joseph
+      ###### Yakubu Peter Dirisu (Don)
 
-      *   Mr josh link vec.Dirisu
+      ###### Philip Joseph
 
-      *   Rashida Alex Dirisu
+      ###### Mr josh link vec.Dirisu
 
-      *   Yunusa .Dy. Cordinator
+      ###### Rashida Alex Dirisu
 
-      *   Dirisu Sunday
+      ###### Yunusa .Dy. Cordinator
 
-      *   Ignatus Dirisu
+      ###### Dirisu Sunday
 
-      *   Ogioshe Dirisu
+      ###### Ignatus Dirisu
 
-      *   Desmond Dolz dirisu
+      ###### Ogioshe Dirisu
 
-      *   Kate Dirisu
+      ###### Desmond Dolz dirisu
 
-      *   Dada Dirisu 1,000 1,000
+      ###### Kate Dirisu
 
-      *   Jery.d. Jwoder nig ltd
+      ###### Dada Dirisu 1,000 1,000
 
-      *   Abdulmalik .d .sec
+      ###### Jery.d. Jwoder nig ltd
 
-      *   Famous Dirisu
+      ###### Abdulmalik .d .sec
 
-      *   Unice Dirisu
+      ###### Famous Dirisu
 
-      *   Sis Rose
+      ###### Unice Dirisu
 
-      *   Tunde Adebor Dirisu
+      ###### Sis Rose
 
-      *   Haruna Peter Dirisu
+      ###### Tunde Adebor Dirisu
 
-      *   Philomina Salak Dirisu
+      ###### Haruna Peter Dirisu
 
-      *   Pst Abudu Emmanuel .D
+      ###### Philomina Salak Dirisu
 
-      *   Mummy Philo .D.(Minna)
+      ###### Pst Abudu Emmanuel .D
 
-      *   Mummy Martins .D.okp
+      ###### Mummy Philo .D.(Minna)
+
+      ###### Mummy Martins .D.okp
 
     actions: []
     colors: colors-f
