@@ -39,30 +39,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: QuoteSection
-    quote: "<div style=\"text-size: 1px\" >\U0001F384 **Merry Christmas & Happy New Year!** \U0001F389\nWishing you a joyful holiday season filled with peace, love, and happiness.\nThank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F</div>\n\n"
-    name: ''
-    title: Product Marketing Manager at Acme
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-5
-          - pb-5
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight": 500
-        textAlign: center
-      title:
-        fontWeight": 400
-        textAlign: center
   - type: TextSection
     colors: colors-f
     variant: variant-a
