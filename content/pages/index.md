@@ -44,7 +44,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: ''
         url: /projects
     showDate: false
     showDescription: true
@@ -58,18 +58,20 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-0
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: small
+        borderWidth: 0
       title:
         textAlign: left
       subtitle:
@@ -77,6 +79,45 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: FAMILY MEMBERS
+  - type: FeaturedProjectsSection
+    subtitle: 'Projects:'
+    actions:
+      - type: Link
+        label: ''
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
+          - pl-2
+          - pr-2
+        justifyContent: center
+        borderRadius: xx-small
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -104,8 +145,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-48
+          - pt-0
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -122,7 +163,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "CONTACT...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -174,8 +215,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-2
+          - pb-4
           - pr-4
           - pl-4
         alignItems: center
