@@ -41,7 +41,7 @@ sections:
         textAlign: center
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: "\U0001F384 Merry Christmas & Happy New Year In Advance! \U0001F389"
     text: ''
     elementId: ''
