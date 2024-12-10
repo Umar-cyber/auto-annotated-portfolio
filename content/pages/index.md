@@ -91,7 +91,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: ''
         altText: ''
         url: /
         showIcon: true
