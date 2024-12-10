@@ -44,16 +44,7 @@ sections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/about.jpg
