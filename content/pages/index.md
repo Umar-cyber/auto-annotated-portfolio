@@ -67,6 +67,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: "Wishing you a joyful holiday season filled with peace, love, and happiness.Thank you for being a part of our journey this year. Here's to an amazing year ahead! \U0001F31F"
   - type: MediaGallerySection
     title: Gallery
     subtitle: Family Events Pictures
