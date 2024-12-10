@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: lARE
+title: LARE
 date: '2021-10-15'
 client: Awesome client
 description: ''
