@@ -82,7 +82,7 @@ sections:
     spacing: 15
     columns: 4
     aspectRatio: '4:3'
-    showCaption: false
+    showCaption: true
     enableHover: true
     elementId: ''
     styles:
